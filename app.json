@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "sourceDrinkApp",
+    "slug": "sourceDrinkApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "sourceDrinkApp"
+}
